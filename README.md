@@ -25,15 +25,17 @@ Here are some ideas to get you started:
 **Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:**
 
 - [x] **Python** - 
-    * Thriller, Crime, Action Dataset $\parallel$ Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
-    * Diabetes Dataset $\parallel$ Diabetes Classification Model Comparison $\leadsto$ [view](https://github.com/seuwenfei/Diabetes-classification-model-comparison)
-    * Online Fraud Dataset $\parallel$ Online Payment Fraud Detection $\leadsto$ [view](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
+    * Kaggle Titanic - Machine Learning from Disaster Competition $\parallel$ Random Forest $\parallel$ Cross validation score = 0.85 $\leadsto$ [view](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
+    * Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
+    * Online Payment Fraud Detection $\parallel$ F1 score = 0.78 $\leadsto$ [view](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
+    * Diabetes Classification Model Comparison $\leadsto$ [view](https://github.com/seuwenfei/Diabetes-classification-model-comparison)
+
     
 - [x] **Python & Tableau** - 
     * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [view](https://github.com/seuwenfei/KPMG_Virtual_Internship)
 
 - [x] **SQL (PostgreSQL) & Tableau** - 
-    * Airlines Database $\parallel$ Database Query & Flight Ticket Sales Analysis Dashboard $\leadsto$ [view](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
+    * Database Query & Flight Ticket Sales Analysis Dashboard $\parallel$ Airlines Database $\leadsto$ [view](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
 
 - [x] **Google Data Studio** - 
     * Ecommerce Dashboard $\leadsto$ [view](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
