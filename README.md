@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:**
 
-- [x] **Jupyter Notebook & Python** - 
+- [x] **Python** - 
     * Kaggle Titanic - Machine Learning from Disaster Competition $\parallel$ Random Forest $\parallel$ Cross validation score = 0.85 $\leadsto$ [view](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
     * Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
     * Online Payment Fraud Detection $\parallel$ F1 score = 0.78 $\leadsto$ [view](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
