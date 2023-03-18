@@ -43,6 +43,9 @@ Here are some ideas to get you started:
  
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 
+- [x] **SAS Studio** - 
+    * Non-parametric Test $\parallel$ SAS script $\leadsto$ [view](https://github.com/seuwenfei/Nonparametric-tests/blob/main/NonParametric.sas)
+    
 - [x] **Java (Netbeans)** - 
-    * Java Application $\parallel$ Simple Student Information System (2019) $\leadsto$ [view](https://github.com/seuwenfei/Java-application-simple-info-system)
+    * Java Application - Simple Student Information System (2019) $\parallel$ Java script $\leadsto$ [view](https://github.com/seuwenfei/Java-application-simple-info-system/blob/main/StudentInfoSys.java)
 
