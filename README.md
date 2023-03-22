@@ -29,7 +29,6 @@ Here are some ideas to get you started:
     * Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
     * Online Payment Fraud Detection $\parallel$ Classification Model Comparison $\parallel$ Random Forest $\parallel$ F1 score = 0.79 $\leadsto$ [view](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
     * Feature Engineering $\parallel$ Convert UTC time to Local time $\leadsto$ [view](https://www.kaggle.com/code/seuwenfei/self-learning-note-convert-utc-time-to-local-time)
-    * Diabetes Classification Model Comparison $\leadsto$ [view](https://github.com/seuwenfei/Diabetes-classification-model-comparison)
 
     
 - [x] **Python & Tableau** - 
