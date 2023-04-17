@@ -24,27 +24,51 @@ Here are some ideas to get you started:
 
 **Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:**
 
-- [x] **Python** - 
-    * Kaggle Titanic - Machine Learning from Disaster Competition $\parallel$ Random Forest $\parallel$ Cross validation score = 0.85 $\leadsto$ [view](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
-    * Data Visualization for Worldwide Movie Series $\leadsto$ [view](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
-    * Online Payment Fraud Detection $\parallel$ Classification Model Comparison $\parallel$ Random Forest $\parallel$ F1 score = 0.79 $\leadsto$ [view](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
-    * Feature Engineering $\parallel$ Convert UTC time to Local time $\leadsto$ [view](https://www.kaggle.com/code/seuwenfei/self-learning-note-convert-utc-time-to-local-time)
+## Python: 
 
-    
-- [x] **Python & Tableau** - 
-    * KPMG Data Analytics Consulting Virtual Internship $\leadsto$ [view](https://github.com/seuwenfei/KPMG_Virtual_Internship)
+- [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
+    * Developed machine learning model to predict who survived the sinking of the Titanic using Python in Jupyter Notebook. 
+    * The Python libraries used are pandas, numpy, seaborn, matplotlib, scikit-learn, tensor flow.
+    * The notebook covers techniques such as EDA, feature engineering, data visualization, and model comparison.
+    * A random forest model with a stratified k fold CV score of 0.85 was obtained.
+<br/>
 
-- [x] **SQL (PostgreSQL) & Tableau** - 
-    * Database Query & Flight Ticket Sales Analysis Dashboard $\parallel$ Airlines Database $\leadsto$ [view](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
+- [x] **Feature Engineering - Convert UTC time to Local time** &ensp; | &ensp; *Feb 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
+    * The Python libraries used are pandas, datetime, dateutil.tz, pytz.
+    * The notebook covers techniques such as feature engineering.
+<br/>
 
-- [x] **Google Data Studio** - 
-    * Ecommerce Dashboard $\leadsto$ [view](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
+- [x] **Data Visualization for Worldwide Movie Series** &ensp; | &ensp; *Jan 2023* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
+    * Graphically presented information to highlight patterns and trends in movie series data using Python in Jupyter Notebook.
+    * The Python libraries used are pandas, numpy, seaborn, matplotlib, wordcloud.
+    * The notebook covers techniques such as EDA, feature engineering, data visualization.       
+<br/>
+
+- [x] **Online Payment Fraud Detection** &ensp; | &ensp; *Dec 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
+    * Trained machine learning models for identifying fraudulent and non-fraudulent payments using Python in Jupyter Notebook.
+    * The Python libraries used are pandas, numpy, seaborn, matplotlib, tabulate, sklearn
+    * The notebook covers techniques such as EDA, data visualization, and model comparison.
+    * A random forest model with a F1 score of 0.79 was obtained. 
+<br/>
+ 
+## Python & Tableau - 
+- [x] **KPMG Data Analytics Consulting Virtual Internship** $\leadsto$ [View](https://github.com/seuwenfei/KPMG_Virtual_Internship)
+<br/>
+
+## SQL (PostgreSQL) & Tableau - 
+- [x] **Database Query & Flight Ticket Sales Analysis Dashboard** $\parallel$ Airlines Database $\leadsto$ [View](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
+<br/>
+
+## Google Data Studio - 
+- [x] **Ecommerce Dashboard** $\leadsto$ [view](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
  
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
+<br/>
 
-- [x] **SAS Studio** - 
-    * Non-parametric Test $\parallel$ SAS script $\leadsto$ [view](https://github.com/seuwenfei/Nonparametric-tests/blob/main/NonParametric.sas)
-    
-- [x] **Java (Netbeans)** - 
-    * Java Application - Simple Student Information System (2019) $\parallel$ Java script $\leadsto$ [view](https://github.com/seuwenfei/Java-application-simple-info-system/blob/main/StudentInfoSys.java)
+## SAS Studio - 
+- [x] **Non-parametric Test** $\parallel$ SAS script $\leadsto$ [View](https://github.com/seuwenfei/Nonparametric-tests/blob/main/NonParametric.sas)
+<br/>
+
+## Java (Netbeans) - 
+- [x] **Java Application -Simple Student Information System** &ensp; | *Nov 2019* | &ensp; [View java script](https://github.com/seuwenfei/Java-application-simple-info-system/blob/main/StudentInfoSys.java)
 
