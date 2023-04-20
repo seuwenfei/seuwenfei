@@ -52,28 +52,31 @@ Here are some ideas to get you started:
 <br/>
  
 ## Python & Tableau - 
-- [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; *Nov 2022* &ensp; | &ensp; [View](https://github.com/seuwenfei/KPMG_Virtual_Internship)
+- [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; *Nov 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
     * The KPMG Virtual Experience Program with Forage aims to provide insight into working at KPMG to develop career skills and experience.
-    * The completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
+    * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
 <br/>
 
 ## SQL (PostgreSQL) & Tableau - 
-- [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; *Jan 2023* &ensp; | &ensp; [View](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
-    * An airline flight ticket dataset was queried from Airlines Database using PostgreSQL.
+- [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; *Jan 2023* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
+    * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL.
     * The flight ticket sales analysis dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport was presented using Tableau.
 <br/>
 
 
 ## SAS Studio - 
-- [x] **Non-parametric Test**  &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [View SAS script](https://github.com/seuwenfei/Nonparametric-tests/blob/main/NonParametric.sas)
+- [x] **Non-parametric Test for Patient Health Status**  &ensp; | &ensp; *Mar 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Nonparametric-tests)
+    * Analyzed the Patient Health Status using non-parametric tests such as Shapiro-Wilk, Wilcoxon Rank Sum, Ansari-Bradley, Kolmogorov-Smirnov, Kruskal-Wallis and Spearman's Correlation Tests as data distribution assumptions of parametric tests are not met.
 <br/>
 
 ## Google Data Studio - 
 - [x] **Ecommerce Dashboard** &ensp;| &ensp; *Jul 2021* &ensp; | &ensp; [Show project](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
- 
+    * Visualized ecommerce data by displaying sessions, transaction, revenue, product checkout, average oder value, conversion rate, and more in a dashboard.
+
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
   
 ## Java (Netbeans) - 
-- [x] **Java Application -Simple Student Information System** &ensp; | *Nov 2019* | &ensp; [View java script](https://github.com/seuwenfei/Java-application-simple-info-system/blob/main/StudentInfoSys.java)
+- [x] **Java Application -Simple Student Information System** &ensp; | *Nov 2019* | &ensp; [Show project](https://github.com/seuwenfei/Java-application-simple-info-system)
+    * Writed a Java application to represent a simple Student Information System.
 
