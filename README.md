@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 ## Python: 
 
+- [x] **Telco Churn Customer Analysis** &ensp; | &ensp; *Apr 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-analysis-auc-0-86)
+    * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
+    * Developed the churn prediction model using machine learning algorithms to identify whether a customer has churned. 
+    * The Python libraries used were pandas, numpy, seaborn, matplotlib, plotly, h3, folium, tensor flow, imblearn, scikit-learn, xgboost.
+    * The notebook covered techniques such as EDA, data visualization, and model comparison.
+    * A xgboost classifier with a AUC score of 0.86 was obtained.
+<br/>
+
 - [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
     * Developed the machine learning model to predict who survived the sinking of the Titanic using Python in Jupyter Notebook. 
     * The Python libraries used were pandas, numpy, seaborn, matplotlib, scikit-learn, tensor flow.
