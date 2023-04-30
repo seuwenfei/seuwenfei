@@ -30,14 +30,20 @@ Here are some ideas to get you started:
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
     * Developed the churn prediction model using machine learning algorithms to identify whether a customer has churned. 
     * The Python libraries used were pandas, numpy, seaborn, matplotlib, plotly, h3, folium, tensor flow, imblearn, scikit-learn, xgboost.
-    * The notebook covered techniques such as EDA, data visualization, and model comparison of Random Forest, Logistic Regression, AdaBoost, and XGBoost.
+    * The notebook covered techniques such as EDA, data visualization, and classification model comparison of Random Forest, Logistic Regression, AdaBoost, and XGBoost.
     * A xgboost classifier with a AUC score of 0.86 was obtained.
+<br/>
+
+- [x] **Web Scraping Booking.com** &ensp; | &ensp; *Apr 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/web-scraping-booking-com-beautifulsoup)
+    * Scraped valuable data of available hotels in Kuala Lumpur, Malaysia from Booking.com using Beautiful Soup library in Python. 
+    * Scraped information such as hotel names, locations, room types, scores, ratings, number of reviews, distance from centre and prices.
+    * The Python libraries used were pandas, requests, bs4 and re.
 <br/>
 
 - [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
     * Developed the machine learning model to predict who survived the sinking of the Titanic using Python in Jupyter Notebook. 
     * The Python libraries used were pandas, numpy, seaborn, matplotlib, scikit-learn, tensor flow.
-    * The notebook covered techniques such as EDA, feature engineering, data visualization, and model comparison of Random Forest, Logistic Regression and Complement Naive Bayes.
+    * The notebook covered techniques such as EDA, feature engineering, data visualization, and classification model comparison of Random Forest, Logistic Regression and Complement Naive Bayes.
     * A random forest model with a stratified k fold CV score of 0.85 was obtained.
 <br/>
 
@@ -55,7 +61,7 @@ Here are some ideas to get you started:
 - [x] **Online Payment Fraud Detection** &ensp; | &ensp; *Dec 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
     * Trained the machine learning models for identifying fraudulent and non-fraudulent payments using Python in Jupyter Notebook.
     * The Python libraries used were pandas, numpy, seaborn, matplotlib, tabulate, sklearn
-    * The notebook covered techniques such as EDA, data visualization, and model comparison.
+    * The notebook covered techniques such as EDA, data visualization, and classification model comparison.
     * A random forest model with a F1 score of 0.79 was obtained. 
 <br/>
  
