@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">Hi there, I am Wen Fei 👋</h1>
 
+<p align="center">
 <img width="800" alt="Ivory Simple Playful LinkedIn Banner (1)" src="https://user-images.githubusercontent.com/118715799/212730837-839b3858-a9f8-44b2-abc2-13374ed9a723.png">
- 
 </p>
 
-<h1 align="center">Hi there, I am Wen Fei 👋</h1>
+
 
 <!--
 **seuwenfei/seuwenfei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,55 +26,55 @@ Here are some ideas to get you started:
 
 ## Python: 
 
-- [x] **Telco Churn Customer Analysis** &ensp; | &ensp; *Apr 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-analysis-auc-0-86)
+- [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; *Apr 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
     * Developed the churn prediction model using machine learning algorithms to identify whether a customer has churned. 
-    * The Python libraries used were pandas, numpy, seaborn, matplotlib, plotly, h3, folium, tensor flow, imblearn, scikit-learn, xgboost.
-    * The notebook covered techniques such as EDA, data visualization, and classification model comparison of Random Forest, Logistic Regression, AdaBoost, and XGBoost.
-    * A xgboost classifier with a AUC score of 0.86 was obtained.
+    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `Imblearn`, `Scikit Learn`, `XGBoost`.
+    * Techniques used: *EDA, Data Visualization, Classification Model Comparison of Random Forest, Logistic Regression, AdaBoost, and XGBoost.*
+    * Obtained a XGBoost classifier with a AUC score of 0.86.
 <br/>
 
 - [x] **Web Scraping Booking.com** &ensp; | &ensp; *Apr 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/web-scraping-booking-com-beautifulsoup)
     * Scraped valuable data of available hotels in Kuala Lumpur, Malaysia from Booking.com using Beautiful Soup library in Python. 
     * Scraped information such as hotel names, locations, room types, scores, ratings, number of reviews, distance from centre and prices.
-    * The Python libraries used were pandas, requests, bs4 and re.
+    * Python libraries used: `Pandas`, `Requests`, `Beautiful Soup (bs4)`, `RegEx (re)`.
 <br/>
 
 - [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
     * Developed the machine learning model to predict who survived the sinking of the Titanic using Python in Jupyter Notebook. 
-    * The Python libraries used were pandas, numpy, seaborn, matplotlib, scikit-learn, tensor flow.
-    * The notebook covered techniques such as EDA, feature engineering, data visualization, and classification model comparison of Random Forest, Logistic Regression and Complement Naive Bayes.
-    * A random forest model with a stratified k fold CV score of 0.85 was obtained.
+    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Scikit Learn`, `TensorFlow`.
+    * Techniques used: *EDA, Feature Engineering, Data Visualization, Classification Model Comparison of Random Forest, Logistic Regression and Complement Naive Bayes.*
+    * Obtained a Random Forest model with a stratified k fold CV score of 0.85.
 <br/>
 
 - [x] **Feature Engineering - Convert UTC time to Local time** &ensp; | &ensp; *Mar 2023* &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
-    * The Python libraries used were pandas, datetime, dateutil.tz, pytz.
-    * The notebook covered techniques such as feature engineering.
+    * Python libraries used: `Pandas`, `DateTime`, `Dateutil`, `PYTZ`.
+    * Techniques used: Feature Engineering.
 <br/>
 
 - [x] **Data Visualization for Worldwide Movie Series** &ensp; | &ensp; *Jan 2023* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
     * Graphically presented information to highlight patterns and trends in movie series data using Python in Jupyter Notebook.
-    * The Python libraries used were pandas, numpy, seaborn, matplotlib, wordcloud.
-    * The notebook covered techniques such as EDA, feature engineering, data visualization.       
+    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `WordCloud`.
+    * Techniques used: *EDA, Feature Engineering, Data Visualization.*       
 <br/>
 
-- [x] **Online Payment Fraud Detection** &ensp; | &ensp; *Dec 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
+- [x] **Online Payment Fraud Detection using Machine Learning** &ensp; | &ensp; *Dec 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
     * Trained the machine learning models for identifying fraudulent and non-fraudulent payments using Python in Jupyter Notebook.
-    * The Python libraries used were pandas, numpy, seaborn, matplotlib, tabulate, sklearn
-    * The notebook covered techniques such as EDA, data visualization, and classification model comparison.
-    * A random forest model with a F1 score of 0.79 was obtained. 
+    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Tabulate`, `Scikit Learn`.
+    * Techniques used: *EDA, Data Visualization, Classification Model Comparison.*
+    * Obtained a Random Forest model with a F1 score of 0.79. 
 <br/>
  
 ## Python & Tableau - 
 - [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; *Nov 2022* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
-    * The KPMG Virtual Experience Program with Forage aims to provide insight into working at KPMG to develop career skills and experience.
+    * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
     * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
 <br/>
 
 ## SQL (PostgreSQL) & Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; *Jan 2023* &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
     * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL.
-    * The flight ticket sales analysis dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport was presented using Tableau.
+    * Presented the flight ticket sales dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport using Tableau.
 <br/>
 
 
