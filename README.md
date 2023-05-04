@@ -131,13 +131,15 @@ Here are some ideas to get you started:
     * Analyzed the Patient Health Status using non-parametric tests such as Shapiro-Wilk, Wilcoxon Rank Sum, Ansari-Bradley, Kolmogorov-Smirnov, Kruskal-Wallis and Spearman's Correlation Tests as data distribution assumptions of parametric tests are not met.
 <br/>
 
+
 ### 📌 Google Data Studio - 
 - [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021** &ensp; | &ensp; [Show project](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
     * Visualized ecommerce data by displaying sessions, transaction, revenue, product checkout, average oder value, conversion rate, and more in a dashboard.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
-  
+ 
+ 
 ### 📌 Java (Netbeans) - 
 - [x] **Java Application -Simple Student Information System** &ensp; | **Nov 2019** | &ensp; [Show project](https://github.com/seuwenfei/Java-application-simple-info-system)
     * Writed a Java application to represent a simple Student Information System.
