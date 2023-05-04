@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### 📑 Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:
 
-### Python: 
+### 📌 Python: 
 
 - [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
@@ -113,32 +113,32 @@ Here are some ideas to get you started:
     * Obtained a Random Forest model with a F1 score of 0.79. 
 <br/>
  
-### Python & Tableau - 
+### 📌 Python & Tableau - 
 - [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
     * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
     * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
 <br/>
 
-### SQL (PostgreSQL) & Tableau - 
+### 📌 SQL (PostgreSQL) & Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
     * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL.
     * Presented the flight ticket sales dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport using Tableau.
 <br/>
 
 
-### SAS Studio - 
+### 📌 SAS Studio - 
 - [x] **Non-parametric Test for Patient Health Status**  &ensp; | &ensp; **Mar 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Nonparametric-tests)
     * Analyzed the Patient Health Status using non-parametric tests such as Shapiro-Wilk, Wilcoxon Rank Sum, Ansari-Bradley, Kolmogorov-Smirnov, Kruskal-Wallis and Spearman's Correlation Tests as data distribution assumptions of parametric tests are not met.
 <br/>
 
-### Google Data Studio - 
+### 📌 Google Data Studio - 
 - [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021** &ensp; | &ensp; [Show project](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
     * Visualized ecommerce data by displaying sessions, transaction, revenue, product checkout, average oder value, conversion rate, and more in a dashboard.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
   
-### Java (Netbeans) - 
+### 📌 Java (Netbeans) - 
 - [x] **Java Application -Simple Student Information System** &ensp; | **Nov 2019** | &ensp; [Show project](https://github.com/seuwenfei/Java-application-simple-info-system)
     * Writed a Java application to represent a simple Student Information System.
 
