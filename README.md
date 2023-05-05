@@ -75,7 +75,6 @@ Here are some ideas to get you started:
 ---
 
 ### 📑 Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:
-<br/>
 
 ### 📌 Python - 
 
