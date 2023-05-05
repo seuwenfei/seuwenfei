@@ -49,6 +49,9 @@ ___
    <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" alt="SPSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/900px-New_Power_BI_Logo.svg.png?20210102182532" title="Word" alt="Word" width="40" height="40"/>&nbsp;
    
    
    
@@ -72,8 +75,9 @@ Here are some ideas to get you started:
 ---
 
 ### 📑 Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:
+<br/>
 
-### 📌 Python: 
+### 📌 Python - 
 
 - [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
@@ -115,23 +119,28 @@ Here are some ideas to get you started:
     * Techniques used: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison</ins>.*
     * Obtained a Random Forest model with a F1 score of 0.79. 
 <br/>
+<br/>
  
 ### 📌 Python & Tableau - 
 - [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
     * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
     * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
 <br/>
+<br/>
+
 
 ### 📌 SQL (PostgreSQL) & Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
     * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL.
     * Presented the flight ticket sales dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport using Tableau.
 <br/>
+<br/>
 
 
 ### 📌 SAS Studio - 
 - [x] **Non-parametric Test for Patient Health Status**  &ensp; | &ensp; **Mar 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Nonparametric-tests)
     * Analyzed the Patient Health Status using non-parametric tests such as Shapiro-Wilk, Wilcoxon Rank Sum, Ansari-Bradley, Kolmogorov-Smirnov, Kruskal-Wallis and Spearman's Correlation Tests as data distribution assumptions of parametric tests are not met.
+<br/>
 <br/>
 
 
@@ -140,6 +149,8 @@ Here are some ideas to get you started:
     * Visualized ecommerce data by displaying sessions, transaction, revenue, product checkout, average oder value, conversion rate, and more in a dashboard.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
+<br/>
+<br/>
 <br/>
  
  
