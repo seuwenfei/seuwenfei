@@ -29,7 +29,7 @@ ___
 ### :woman_technologist: About Me :
 - :woman_student: I'm a Statistics recent graduate from Malaysia.
 - :telescope: I'm seeking for a job opportunity in data science and analytics fields, or any other related fields.
-- :seedling: Exploring Data Science.
+- :seedling: I’m currently exploring Data Science.
 - :zap: In my spare time, I'm always involved in data mining and machine learning projects.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-InMail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-wen-fei/)
 
