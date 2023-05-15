@@ -78,6 +78,13 @@ Here are some ideas to get you started:
 
 ### 📌 Python - 
 
+- [x] **Identification of Disaster Related Tweets using NLP based text Classification** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
+    * Built an NLP-based text classification model that can predict whether a given tweet is disaster-related using machine learning or neural network models.
+    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Plotly`, `NLTK`, `Re`, `Collection`, `Wordcloud`, `TensorFlow`, `Scikit Learn`.
+    * Techniques used: *<ins>EDA</ins>, <ins>Text Preprocessing</ins>, <ins>Classification Model Comparison (Linear SVC, Multinomial NB, Neural Network)</ins>.*
+    * Obtained a Linear SVC model with a AUC score of 0.86. *(Good separability between disaster and non-disaster tweets)*
+<br/>
+
 - [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
     * Developed the churn prediction model using machine learning algorithms to identify whether a customer has churned. 
