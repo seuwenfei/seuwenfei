@@ -79,51 +79,51 @@ Here are some ideas to get you started:
 ### 📌 Python - 
 
 - [x] **Identification of Disaster Related Tweets using NLP based Text Classification** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
-    * Built an NLP-based text classification model that can predict whether a given tweet is disaster-related using machine learning or neural network models.
-    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Plotly`, `NLTK`, `Re`, `Collection`, `Wordcloud`, `TensorFlow`, `Scikit Learn`.
-    * Techniques used: *<ins>EDA</ins>, <ins>Text Preprocessing</ins>, <ins>Classification Model Comparison (Linear SVC, Multinomial NB, Neural Network)</ins>.*
-    * Obtained a Linear SVC model with a AUC score of 0.86. *(Good separability between disaster and non-disaster tweets)*
+    * Developed an NLP-based text classification model in Python to predict whether a given tweet is disaster-related.
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`, `Plotly`, `NLTK`, `re`, `collection`, `wordcloud`, `TensorFlow`, `scikit-learn`.
+    * Techniques employed: *<ins>EDA</ins>, <ins>Text Preprocessing</ins>, <ins>Classification Model Comparison (Linear SVC, Multinomial NB, Neural Network)</ins>.*
+    * Achieved an AUC score of 0.86 using a Linear SVC model. *(Good separability between disaster and non-disaster tweets)*
 <br/>
 
 - [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
     * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
-    * Developed the churn prediction model using machine learning algorithms to identify whether a customer has churned. 
-    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `Imblearn`, `Scikit Learn`, `XGBoost`.
-    * Techniques used: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
-    * Obtained a XGBoost classifier with a AUC score of 0.86.
+    * Developed a churn prediction model using machine learning algorithms in Python to identify whether a customer has churned. 
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `imblearn`, `scikit-learn`, `XGBoost`.
+    * Techniques employed: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
+    * Obtained an AUC score of 0.86 using an XGBoost classifier.
 <br/>
 
 - [x] **Web Scraping Booking.com** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/web-scraping-booking-com-beautifulsoup)
-    * Scraped valuable data of available hotels in Kuala Lumpur, Malaysia from Booking.com using Beautiful Soup library in Python. 
-    * Scraped information such as hotel names, locations, room types, scores, ratings, number of reviews, distance from centre and prices.
-    * Python libraries used: `Pandas`, `Requests`, `Beautiful Soup (bs4)`, `RegEx (re)`.
-    * Techniques used: *<ins>Data Extraction</ins>*
+    * Scraped valuable hotel data in Kuala Lumpur, Malaysia from Booking.com using Beautiful Soup library in Python. 
+    * Extracted information such as hotel names, locations, room types, scores, ratings, number of reviews, distance from the center, and prices.
+    * Utilized libraries such as `Pandas`, `Requests`, `Beautiful Soup (bs4)`, `RegEx (re)`.
+    * Techniques employed: *<ins>Data Extraction</ins>*
 <br/>
 
 - [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
-    * Developed the machine learning model to predict who survived the sinking of the Titanic using Python in Jupyter Notebook. 
-    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Scikit Learn`, `TensorFlow`.
-    * Techniques used: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, Complement Naive Bayes)</ins>.*
-    * Obtained a Random Forest model with a stratified k fold CV score of 0.85.
+    * Developed a machine learning model in Python to predict survival on the Titanic. 
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `scikit-learn`, `TensorFlow`.
+    * Techniques employed: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, Complement Naive Bayes)</ins>.*
+    * Achieved a stratified k fold CV score of 0.85 using a Random Forest model.
 <br/>
 
 - [x] **Feature Engineering - Convert UTC time to Local time** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
     * Converted UTC time to Malaysia Standard Time.
-    * Python libraries used: `Pandas`, `DateTime`, `Dateutil`, `PYTZ`.
-    * Techniques used: <ins>Feature Engineering</ins>.
+    * Utilized libraries such as `Pandas`, `DateTime`, `Dateutil`, `pytz`.
+    * Techniques employed: <ins>Feature Engineering</ins>.
 <br/>
 
 - [x] **Data Visualization for Worldwide Movie Series** &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
-    * Graphically presented information to highlight patterns and trends in movie series data using Python in Jupyter Notebook.
-    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `WordCloud`.
-    * Techniques used: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>.*       
+    * Presented graphical visualizations using Python to highlight patterns and trends in movie series data.
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `wordCloud`.
+    * Techniques employed: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>.*       
 <br/>
 
 - [x] **Online Payment Fraud Detection using Machine Learning** &ensp; | &ensp; **Dec 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
-    * Trained the machine learning models for identifying fraudulent and non-fraudulent payments using Python in Jupyter Notebook.
-    * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Tabulate`, `Scikit Learn`.
-    * Techniques used: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison</ins>.*
-    * Obtained a Random Forest model with a F1 score of 0.79. 
+    * Trained machine learning models in Python to identify fraudulent and non-fraudulent payments.
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Tabulate`, `scikit-learn`.
+    * Techniques employed: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison</ins>.*
+    * Obtained an F1 score of 0.79 using a Random Forest model. 
 <br/>
 <br/>
  
@@ -137,8 +137,8 @@ Here are some ideas to get you started:
 
 ### 📌 SQL (PostgreSQL) & Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
-    * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL.
-    * Presented the flight ticket sales dashboard with information like ticket sales, fare conditions, booking period, aircraft, departure and arrival airport using Tableau.
+    * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL (SQL)
+    * Created a flight ticket sales dashboard using Tableau, showcasing ticket sales, fare conditions, booking period, aircraft, departure and arrival airports.
 <br/>
 <br/>
 
@@ -152,7 +152,7 @@ Here are some ideas to get you started:
 
 ### 📌 Google Data Studio - 
 - [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021** &ensp; | &ensp; [Show project](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
-    * Visualized ecommerce data by displaying sessions, transaction, revenue, product checkout, average oder value, conversion rate, and more in a dashboard.
+    * Visualized ecommerce data in a dashboard using Google Data Studio, displaying sessions, transactions, revenue, product checkout, average order value, conversion rate, and more.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
