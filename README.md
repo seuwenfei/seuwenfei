@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 ### 📌 Python - 
 
-- [x] **Identification of Disaster Related Tweets using NLP based text Classification** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
+- [x] **Identification of Disaster Related Tweets using NLP based Text Classification** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
     * Built an NLP-based text classification model that can predict whether a given tweet is disaster-related using machine learning or neural network models.
     * Python libraries used: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`, `Plotly`, `NLTK`, `Re`, `Collection`, `Wordcloud`, `TensorFlow`, `Scikit Learn`.
     * Techniques used: *<ins>EDA</ins>, <ins>Text Preprocessing</ins>, <ins>Classification Model Comparison (Linear SVC, Multinomial NB, Neural Network)</ins>.*
