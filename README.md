@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 
 - [x] **Data Visualization for Worldwide Movie Series** &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
     * Presented graphical visualizations using Python to highlight patterns and trends in movie series data.
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `wordCloud`.
+    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `wordcloud`.
     * Techniques employed: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>.*       
 <br/>
 
