@@ -11,8 +11,8 @@
   <a href="mailto:seuwenfei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/seuwenfei">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
+  <a href="https://drive.google.com/file/d/1e3Bc5ICB1HqR7MD1_YjurMOZUobCg_x7/view?usp=sharing">
+    <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 
@@ -126,19 +126,20 @@ Here are some ideas to get you started:
     * Obtained an F1 score of 0.79 using a Random Forest model. 
 <br/>
 <br/>
- 
-### 📌 Python & Tableau - 
-- [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
-    * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
-    * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
-<br/>
-<br/>
 
 
 ### 📌 SQL (PostgreSQL) & Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
     * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL (SQL)
     * Created a flight ticket sales dashboard using Tableau, showcasing ticket sales, fare conditions, booking period, aircraft, departure and arrival airports.
+<br/>
+<br/>
+
+
+### 📌 Python & Tableau - 
+- [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
+    * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
+    * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
 <br/>
 <br/>
 
