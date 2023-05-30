@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📑 Following are my projects in Python, Tableau, SQL, Google Data Studio, Java:
+### 📑 Following are my projects in Python, Power BI, Tableau, SQL, Google Data Studio, Java:
 
 ### 📌 Python - 
 
@@ -128,15 +128,21 @@ Here are some ideas to get you started:
 <br/>
 
 
-### 📌 SQL (PostgreSQL) & Tableau - 
+### 📌 Power BI - 
+- [x] **Cookies Sales Dashboard**  &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Power-BI-projects/tree/main/Cookies-Sales-Dashboard)
+    * Prepared data for the cookies sales dashboard using <ins>Query Editor</ins> in Power BI.
+    * Created a cookies sales dashboard using Power BI, showcasing cookies sales, cost, profit, lead time, flavour and customer.
+<br/>
+<br/>
+
+
+### 📌 Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
-    * Queried an airline flight ticket dataset from Airlines Database using PostgreSQL (SQL)
+    * Queried an airline flight ticket dataset from Airlines Database using <ins>PostgreSQL (SQL)</ins>.
     * Created a flight ticket sales dashboard using Tableau, showcasing ticket sales, fare conditions, booking period, aircraft, departure and arrival airports.
 <br/>
-<br/>
 
 
-### 📌 Python & Tableau - 
 - [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
     * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
     * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
