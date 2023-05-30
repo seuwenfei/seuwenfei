@@ -20,14 +20,14 @@
 <h1 align="center"> Hi there, I am Wen Fei 👋</h1>
 
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:720/1*DwU2AWUUbZgLdHiRY-Ky5w.gif" width="400" height="250"/>
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*DwU2AWUUbZgLdHiRY-Ky5w.gif" width="350" height="200"/>
 </div>
 
 
 ___
 
 ### :woman_technologist: About Me :
-- :woman_student: I'm a Statistics recent graduate from Malaysia.
+- :woman_student: I'm a Statistics graduate from Malaysia.
 - :telescope: I'm seeking for a job opportunity in data science and analytics fields, or any other related fields.
 - :seedling: I’m currently exploring Data Science.
 - :zap: In my spare time, I'm always involved in data mining and machine learning projects.
