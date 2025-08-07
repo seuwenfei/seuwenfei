@@ -158,8 +158,8 @@ Here are some ideas to get you started:
 <br/>
 
 
-### 📌 Google Data Studio - 
-- [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021** &ensp; | &ensp; [Show project](https://datastudio.google.com/reporting/95a3a789-6bcd-472a-859f-e880cb1b9255)
+### 📌 Looker Studio - 
+- [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021**  
     * Visualized ecommerce data in a dashboard using Google Data Studio, displaying sessions, transactions, revenue, product checkout, average order value, conversion rate, and more.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
