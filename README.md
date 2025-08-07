@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📑 Following are my projects in Python, Power BI, Tableau, SQL, Google Data Studio, Java:
+### 📑 Following are my projects in Python, Power BI, Tableau, SQL, Looker Studio, Java:
 &emsp; &nbsp; `Note: The dates indicate the month and year when each project was completed.` </div>
 <br/>
 
