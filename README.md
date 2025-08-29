@@ -11,7 +11,7 @@
   <a href="mailto:seuwenfei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1YT3NQXgC-x52wEDestqs3KDdiKjUUR-r/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1vpDRnFQE5ip6obOnf9h7IOANr5gLpmbR/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
@@ -76,6 +76,22 @@ Here are some ideas to get you started:
 ### 📑 Following are my projects in Python, Power BI, Tableau, SQL, Looker Studio, Java:
 &emsp; &nbsp; `Note: The dates indicate the month and year when each project was completed.` </div>
 <br/>
+
+
+### 📌 SQL Server -
+- [x] **SQL Driven Business Analytics Framework** &ensp; | &ensp; **Aug 2025** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/business_analytics_framework) 
+* Developed a Business Analytics Framework using SQL Server, categorized into **Customer Analysis**, **Sales & Revenue Analysis**, and **Profitability Analysis**. 
+* Implemented SQL queries to answer business questions and enable **data-driven decision making**. 
+* Connected SQL Server data to Power BI to create a **comprehensive dashboard** with multiple visuals: 
+  - **Cards**: Total Revenue, Total Profit, Profit Margin, Repeat Purchase Rate 
+  - **Map**: Profit Contribution by Country 
+  - **Bar Charts**: Profitability by Coffee Type, Customer Loyalty & Repeatability, Top 5 Profitability Efficiency per 100g 
+  - **Line Chart**: Profit Trends - Scatter Plot: Order-level Profit Margin 
+* Created calculated metrics in **Power BI using DAX measures** (e.g., Revenue per Order, Profit per Order, Margin per Order, Repeat Purchase Rate).
+<br/>
+<br/>
+
+
 
 ### 📌 Python - 
 
