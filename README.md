@@ -27,11 +27,12 @@
 ___
 
 ### :woman_technologist: About Me :
-- :woman_student: I'm a Statistics graduate from Malaysia.
-- :telescope: I'm seeking for a job opportunity in data science and analytics fields, or any other related fields.
-- :seedling: I’m currently exploring Data Science.
-- :zap: In my spare time, I'm always involved in data mining and machine learning projects.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-InMail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-wen-fei/)
+- 👩‍💻 **Statistics graduate** & **IT Cloud Ops Analyst** based in Singapore.
+- 🔭 Interested in **data**, **cloud**, and **analytics** fields, along with other related areas.
+- 🌱 Growing skills in **AWS**, **GCP**, **Python**, **SQL**, and **machine learning**.
+- ⚡ Experienced in **data analytics**, **building data pipelines**, **automating processes**, and **creating dashboards**.
+- 📚 Published research in **statistical quality control (acceptance sampling)** and **COVID-19 survival regression analysis**.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-InMail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seu-wen-fei/)
 
 ---
 
@@ -73,110 +74,94 @@ Here are some ideas to get you started:
 
 ---
 
-### 📑 Following are my projects in Python, Power BI, Tableau, SQL, Looker Studio, Java:
+### 📑 Projects
+Here are selected projects completed using **Python, Power BI, Tableau, SQL, Looker Studio, and Java**:
+
 &emsp; &nbsp; `Note: The dates indicate the month and year when each project was completed.` </div>
 <br/>
+<br/>
 
 
-### 📌 SQL Server -
 - [x] **SQL Driven Business Analytics Framework** &ensp; | &ensp; **Aug 2025** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/business_analytics_framework) 
-* Developed a Business Analytics Framework using SQL Server, categorized into **Customer Analysis**, **Sales & Revenue Analysis**, and **Profitability Analysis**. 
-* Implemented SQL queries to answer business questions and enable **data-driven decision making**. 
-* Connected SQL Server data to Power BI to create a **comprehensive dashboard** with multiple visuals: 
-  - **Cards**: Total Revenue, Total Profit, Profit Margin, Repeat Purchase Rate 
-  - **Map**: Profit Contribution by Country 
-  - **Bar Charts**: Profitability by Coffee Type, Customer Loyalty & Repeatability, Top 5 Profitability Efficiency per 100g 
-  - **Line Chart**: Profit Trends - Scatter Plot: Order-level Profit Margin 
-* Created calculated metrics in **Power BI using DAX measures** (e.g., Revenue per Order, Profit per Order, Margin per Order, Repeat Purchase Rate).
-<br/>
+    * **Tools**: *SQL Server*, *Power BI (DAX)*
+    * Designed queries for customer, sales, and profitability insights. 
+    * Built dashboards with KPIs (revenue, profit margin, repeat purchase rate), maps, bar charts, and trend visualizations. 
+    * Created calculated metrics in Power BI using DAX measures (e.g., Revenue per Order, Profit per Order, Margin per Order, Repeat Purchase Rate).
 <br/>
 
-
-
-### 📌 Python - 
-
-- [x] **Identification of Disaster Related Tweets using NLP based Text Classification** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
-    * Developed an NLP-based text classification model in Python to predict whether a given tweet is disaster-related.
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`, `Plotly`, `NLTK`, `re`, `collection`, `wordcloud`, `TensorFlow`, `scikit-learn`.
-    * Techniques employed: *<ins>EDA</ins>, <ins>Text Preprocessing</ins>, <ins>Classification Model Comparison (Linear SVC, Multinomial NB, Neural Network)</ins>.*
-    * Achieved an AUC score of 0.86 using a Linear SVC model. *(Good separability between disaster and non-disaster tweets)*
+- [x] **Identification of Disaster-Related Tweets (NLP Classification)** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`, `Plotly`, `NLTK`, `re`, `collection`, `wordcloud`, `TensorFlow`, `scikit-learn`)
+    * Developed an NLP classification model to predict disaster-related tweets.
+    * **Techniques**: *EDA, Text Preprocessing, Classification Model Comparison <ins>(Linear SVC, Multinomial NB, Neural Network)</ins>*.
+    * Achieved **AUC 0.86** with Linear SVC, showing strong separation between disaster and non-disaster tweets
 <br/>
 
-- [x] **Churn Customer Prediction using Machine Learning** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
-    * Visualized the IBM Community's Telco Churn Dataset to quickly gain insights using Python in Jupyter Notebook.
-    * Developed a churn prediction model using machine learning algorithms in Python to identify whether a customer has churned. 
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `imblearn`, `scikit-learn`, `XGBoost`.
-    * Techniques employed: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
-    * Obtained an AUC score of 0.86 using an XGBoost classifier.
+- [x] **Churn Prediction (IBM Telco Dataset)** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `imblearn`, `scikit-learn`, `XGBoost`).
+    * Built ML models to predict customer churn. 
+    *  **Techniques**: *EDA, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
+    * Achieved **AUC 0.86** with XGBoost.
 <br/>
 
 - [x] **Web Scraping Booking.com** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/web-scraping-booking-com-beautifulsoup)
-    * Scraped valuable hotel data in Kuala Lumpur, Malaysia from Booking.com using Beautiful Soup library in Python. 
-    * Extracted information such as hotel names, locations, room types, scores, ratings, number of reviews, distance from the center, and prices.
-    * Utilized libraries such as `Pandas`, `Requests`, `Beautiful Soup (bs4)`, `RegEx (re)`.
-    * Techniques employed: *<ins>Data Extraction</ins>*
+    * **Tools**: *Python* (`Pandas`, `Requests`, `BeautifulSoup`, `RegEx`)
+    * Scraped hotel data (name, rating, reviews, distance from city center, prices).
+    * Processed structured datasets for further analytics.
 <br/>
 
-- [x] **Kaggle Titanic - Machine Learning from Disaster Competition** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85)
-    * Developed a machine learning model in Python to predict survival on the Titanic. 
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `scikit-learn`, `TensorFlow`.
-    * Techniques employed: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison (Random Forest, Logistic Regression, Complement Naive Bayes)</ins>.*
-    * Achieved a stratified k fold CV score of 0.85 using a Random Forest model.
+- [x] **Titanic Survival Prediction (Kaggle Competition)** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85) 
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `scikit-learn`, `TensorFlow`).
+    * Developed ML models to predict survival outcomes.
+    * **Techniques**: *EDA, Feature Engineering, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression, Complement Naive Bayes)</ins>*.
+    * Achieved **stratified k-fold CV score of 0.85** with Random Forest.
 <br/>
 
-- [x] **Feature Engineering - Convert UTC time to Local time** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
-    * Converted UTC time to Malaysia Standard Time.
-    * Utilized libraries such as `Pandas`, `DateTime`, `Dateutil`, `pytz`.
-    * Techniques employed: <ins>Feature Engineering</ins>.
+- [x] **Feature Engineering - Convert UTC to Local time** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
+    * **Tools**: *Python* (`Pandas`, `DateTime`, `Dateutil`, `pytz`)
+    * Converted UTC time to Malaysia Standard Time for analytics workflows.
 <br/>
 
-- [x] **Data Visualization for Worldwide Movie Series** &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
-    * Presented graphical visualizations using Python to highlight patterns and trends in movie series data.
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `wordcloud`.
-    * Techniques employed: *<ins>EDA</ins>, <ins>Feature Engineering</ins>, <ins>Data Visualization</ins>.*       
+- [x] **Worldwide Movie Series Visualization** &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Data-visualization-for-worldwide-movie-series)
+    * **Tools**: *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `wordcloud`)
+    * Created visualizations highlighting patterns and trends in movie series data.
+    * **Techniques**: *EDA, Feature Engineering, Visualization*. 
 <br/>
 
-- [x] **Online Payment Fraud Detection using Machine Learning** &ensp; | &ensp; **Dec 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
-    * Trained machine learning models in Python to identify fraudulent and non-fraudulent payments.
-    * Utilized libraries such as `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Tabulate`, `scikit-learn`.
-    * Techniques employed: *<ins>EDA</ins>, <ins>Data Visualization</ins>, <ins>Classification Model Comparison</ins>.*
-    * Obtained an F1 score of 0.79 using a Random Forest model. 
-<br/>
+- [x] **Online Payment Fraud Detection** &ensp; | &ensp; **Dec 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Tabulate`, `scikit-learn`)
+    * Trained ML models to classify fraudulent vs. non-fraudulent transactions.
+    * **Techniques**: *EDA, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression)</ins>*.
+    * Achieved **stratified k-fold CV F1 score of 0.985** using a Random Forest model.
 <br/>
 
 
-### 📌 Power BI - 
 - [x] **Cookies Sales Dashboard**  &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Power-BI-projects/tree/main/Cookies-Sales-Dashboard)
-    * Prepared data for the cookies sales dashboard using <ins>Query Editor</ins> in Power BI.
-    * Created a cookies sales dashboard using Power BI, showcasing cookies sales, cost, profit, lead time, flavour and customer.
-<br/>
+    * **Tools**: *Power BI (Power Query, DAX)*.
+    * Built a dashboard to analyze sales, cost, profit, lead time, and customer trends.
 <br/>
 
-
-### 📌 Tableau - 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
-    * Queried an airline flight ticket dataset from Airlines Database using <ins>PostgreSQL (SQL)</ins>.
-    * Created a flight ticket sales dashboard using Tableau, showcasing ticket sales, fare conditions, booking period, aircraft, departure and arrival airports.
+    * **Tools**: *PostgreSQL*, *Tableau*
+    * Queried airline ticket data and built dashboards for sales, booking periods, and fare conditions.
 <br/>
 
 
 - [x] **KPMG Data Analytics Consulting Virtual Internship**  &ensp; | &ensp; **Nov 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/KPMG_Virtual_Internship)
-    * Participated in KPMG Virtual Experience Program with Forage to gain insight into working at KPMG to develop career skills and experience.
-    * Completed tasks including data quality assessment, data insights analysis using Python (Jupyter Notebook) and data dashboard presentation using Tableau.
-<br/>
+    * **Tools**: *Python (Jupyter Notebook)*, *Tableau*.
+    * Conducted data quality assessment and insights analysis.
+    * Built Tableau dashboards for customer segmentation and insights presentation.
 <br/>
 
 
-### 📌 SAS Studio - 
 - [x] **Non-parametric Test for Patient Health Status**  &ensp; | &ensp; **Mar 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Nonparametric-tests)
-    * Analyzed the Patient Health Status using non-parametric tests such as Shapiro-Wilk, Wilcoxon Rank Sum, Ansari-Bradley, Kolmogorov-Smirnov, Kruskal-Wallis and Spearman's Correlation Tests as data distribution assumptions of parametric tests are not met.
-<br/>
+    * **Tools**: *SAS Studio*
+    * Applied Shapiro-Wilk, Wilcoxon, Kolmogorov-Smirnov, Kruskal-Wallis, and Spearman’s correlation to patient health data.
 <br/>
 
 
-### 📌 Looker Studio - 
-- [x] **Ecommerce Dashboard** &ensp;| &ensp; **Jul 2021**  
-    * Visualized ecommerce data in a dashboard using Google Data Studio, displaying sessions, transactions, revenue, product checkout, average order value, conversion rate, and more.
+- [x] **E-commerce Dashboard** &ensp;| &ensp; **Jul 2021**  
+    * **Tools**: *Looker Studio (Google Data Studio)*
+    * Built dashboards displaying sessions, transactions, revenue, checkout behavior, AOV, and conversion rate.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
@@ -184,7 +169,7 @@ Here are some ideas to get you started:
 <br/>
  
  
-### 📌 Java (Netbeans) - 
 - [x] **Java Application -Simple Student Information System** &ensp; | **Nov 2019** | &ensp; [Show project](https://github.com/seuwenfei/Java-application-simple-info-system)
-    * Writed a Java application to represent a simple Student Information System.
+    * **Tools**: *Java (NetBeans)*
+    * Built a Java application to represent a simple student information system.
 
