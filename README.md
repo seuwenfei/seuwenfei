@@ -11,7 +11,7 @@
   <a href="mailto:seuwenfei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1TmwvJJJCb0XvJwNYzCTbWdI0JfrezMvG/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1UNXQJuLVk1fMpTq5i-NOQwNMrHmC4eQF/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
@@ -27,8 +27,8 @@
 ___
 
 ### :woman_technologist: About Me :
-- 👩‍💻 **Statistics graduate** & **IT Cloud Ops Analyst** based in Singapore.
-- 🔭 Interested in **data**, **cloud**, and **analytics** fields, along with other related areas.
+- ✨ **Statistics graduate** & **IT Cloud Ops Analyst** based in Singapore.
+- 🔭 Interested in **data**, **cloud**, **analytics**, **machine learning**, and related fields.
 - 🌱 Growing skills in **AWS**, **GCP**, **Python**, **SQL**, and **machine learning**.
 - ⚡ Experienced in **data analytics**, **building data pipelines**, **automating processes**, and **creating dashboards**.
 - 📚 Published research in **statistical quality control (acceptance sampling)** and **COVID-19 survival regression analysis**.
