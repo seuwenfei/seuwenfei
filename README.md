@@ -81,6 +81,12 @@ Here are selected projects completed using **Python, Power BI, Tableau, SQL, Loo
 <br/>
 <br/>
 
+- [x] **Parcel Delivery Time Prediction (Regression Modeling)** &ensp; | &ensp; **Oct 2025** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/parcel-delivery-time-prediction-tensorflow-dnn) 
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Scikit-learn`, `XGBoost`, `TensorFlow`, `PyTorch`, `Joblib`)
+    * **Description**: Built regression models to predict parcel delivery times using historical Amazon order data. 
+    * **Techniques**: *EDA, feature engineering <ins>(date-time transformations, distance calculations)</ins>, outlier detection, multicollinearity check, mixed scaling <ins>(StandardScaler + RobustScaler)</ins>, feature encoding, and model comparison <ins>(Random Forest, XGBoost, TensorFlow DNN, PyTorch DNN)</ins>*.
+    * **Result**: Selected TensorFlow DNN as the final model due to its stability and generalization, achieving competitive MAE, RMSE, and R². Deployed a pipeline with preprocessing and model serialization for inference on new parcel orders.
+<br/>
 
 - [x] **SQL Driven Business Analytics Framework** &ensp; | &ensp; **Aug 2025** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/business_analytics_framework) 
     * **Tools**: *SQL Server*, *Power BI (DAX)*
@@ -90,30 +96,29 @@ Here are selected projects completed using **Python, Power BI, Tableau, SQL, Loo
 <br/>
 
 - [x] **Identification of Disaster-Related Tweets (NLP Classification)** &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/identification-of-disaster-related-tweets-nlp)
-    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`, `Plotly`, `NLTK`, `re`, `collection`, `wordcloud`, `TensorFlow`, `scikit-learn`)
-    * Developed an NLP classification model to predict disaster-related tweets.
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `SciPy`, `Plotly`, `NLTK`, `re`, `collection`, `wordcloud`, `TensorFlow`, `Scikit-learn`)
+    * **Description**: Developed an NLP classification model to predict disaster-related tweets.
     * **Techniques**: *EDA, Text Preprocessing, Classification Model Comparison <ins>(Linear SVC, Multinomial NB, Neural Network)</ins>*.
-    * Achieved **AUC 0.86** with Linear SVC, showing strong separation between disaster and non-disaster tweets
+    * **Result**: Achieved **AUC 0.86** with Linear SVC, showing strong separation between disaster and non-disaster tweets
 <br/>
 
 - [x] **Churn Prediction (IBM Telco Dataset)** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/telco-churn-customer-prediction-auc-0-86)
-    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `imblearn`, `scikit-learn`, `XGBoost`).
-    * Built ML models to predict customer churn. 
-    *  **Techniques**: *EDA, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
-    * Achieved **AUC 0.86** with XGBoost.
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Plotly`, `H3`, `Folium`, `TensorFlow`, `imblearn`, `Scikit-learn`, `XGBoost`).
+    * **Description**: Built ML models to predict customer churn. 
+    * **Techniques**: *EDA, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression, AdaBoost, XGBoost)</ins>.*
+    * **Result**: Achieved **AUC 0.86** with XGBoost.
 <br/>
 
 - [x] **Web Scraping Booking.com** &ensp; | &ensp; **Apr 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/web-scraping-booking-com-beautifulsoup)
     * **Tools**: *Python* (`Pandas`, `Requests`, `BeautifulSoup`, `RegEx`)
-    * Scraped hotel data (name, rating, reviews, distance from city center, prices).
-    * Processed structured datasets for further analytics.
+    * **Description**: Scraped hotel data (name, rating, reviews, distance from city center, prices) and processed structured datasets for further analytics.
 <br/>
 
 - [x] **Titanic Survival Prediction (Kaggle Competition)** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/titanic-random-forest-cv-score-0-85) 
-    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `scikit-learn`, `TensorFlow`).
-    * Developed ML models to predict survival outcomes.
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Scikit-learn`, `TensorFlow`).
+    * **Description**: Developed ML models to predict survival outcomes.
     * **Techniques**: *EDA, Feature Engineering, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression, Complement Naive Bayes)</ins>*.
-    * Achieved **stratified k-fold CV score of 0.85** with Random Forest.
+    * **Result**: Achieved **stratified k-fold CV score of 0.85** with Random Forest.
 <br/>
 
 - [x] **Feature Engineering - Convert UTC to Local time** &ensp; | &ensp; **Mar 2023** &ensp; | &ensp; [Show project](https://www.kaggle.com/code/seuwenfei/feature-engineering-convert-utc-to-local-time)
@@ -128,21 +133,21 @@ Here are selected projects completed using **Python, Power BI, Tableau, SQL, Loo
 <br/>
 
 - [x] **Online Payment Fraud Detection** &ensp; | &ensp; **Dec 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Online-payment-fraud-detection/blob/main/online-payment-fraud-detection.ipynb)
-    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Tabulate`, `scikit-learn`)
-    * Trained ML models to classify fraudulent vs. non-fraudulent transactions.
+    * **Tools**: *Jupyter Notebook*, *Python* (`Pandas`, `NumPy`, `Seaborn`, `Matplotlib`, `Tabulate`, `Scikit-learn`)
+    * **Description**: Trained ML models to classify fraudulent vs. non-fraudulent transactions.
     * **Techniques**: *EDA, Visualization, Classification Model Comparison <ins>(Random Forest, Logistic Regression)</ins>*.
-    * Achieved **stratified k-fold CV F1 score of 0.985** using a Random Forest model.
+    * **Result**: Achieved **stratified k-fold CV F1 score of 0.985** using a Random Forest model.
 <br/>
 
 
 - [x] **Cookies Sales Dashboard**  &ensp; | &ensp; **May 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Power-BI-projects/tree/main/Cookies-Sales-Dashboard)
     * **Tools**: *Power BI (Power Query, DAX)*.
-    * Built a dashboard to analyze sales, cost, profit, lead time, and customer trends.
+    * **Description**: Built a dashboard to analyze sales, cost, profit, lead time, and customer trends.
 <br/>
 
 - [x] **Flight Ticket Sales Analysis Dashboard**  &ensp; | &ensp; **Jan 2023** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Airlines-flight-ticket-sales-analysis)
     * **Tools**: *PostgreSQL*, *Tableau*
-    * Queried airline ticket data and built dashboards for sales, booking periods, and fare conditions.
+    * **Description**: Queried airline ticket data and built dashboards for sales, booking periods, and fare conditions.
 <br/>
 
 
@@ -155,13 +160,13 @@ Here are selected projects completed using **Python, Power BI, Tableau, SQL, Loo
 
 - [x] **Non-parametric Test for Patient Health Status**  &ensp; | &ensp; **Mar 2022** &ensp; | &ensp; [Show project](https://github.com/seuwenfei/Nonparametric-tests)
     * **Tools**: *SAS Studio*
-    * Applied Shapiro-Wilk, Wilcoxon, Kolmogorov-Smirnov, Kruskal-Wallis, and Spearman’s correlation to patient health data.
+    * **Description**: Applied Shapiro-Wilk, Wilcoxon, Kolmogorov-Smirnov, Kruskal-Wallis, and Spearman’s correlation to patient health data.
 <br/>
 
 
 - [x] **E-commerce Dashboard** &ensp;| &ensp; **Jul 2021**  
     * **Tools**: *Looker Studio (Google Data Studio)*
-    * Built dashboards displaying sessions, transactions, revenue, checkout behavior, AOV, and conversion rate.
+    * **Description**: Built dashboards displaying sessions, transactions, revenue, checkout behavior, AOV, and conversion rate.
 
 &emsp;&emsp;&emsp;&emsp;&ensp;<img src="https://user-images.githubusercontent.com/118715799/211293796-cd14a0f5-2ebd-4a1f-b172-471ac2871cbc.png" width="510" height="360" />
 <br/>
