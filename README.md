@@ -11,7 +11,7 @@
   <a href="mailto:seuwenfei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1nD4YNrbxtsmXUoVGo8Hx8fTdmwwfnuRg/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1t-bKRrcIiA3kw7MrHJRL2dyEWeUTcldD/view?usp=sharing">
     <img src="https://img.shields.io/badge/-Resume-mediumseagreen?style=for-the-badge&logo=Googledrive&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
